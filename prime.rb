@@ -1,6 +1,8 @@
 def prime?(number)
- Prime.each(100) do |prime| 
-
+ start = 2
+  if number > 1
+    range = (start..number-1).to_a
+    range.none? do |num_to_test|
  end
 end 
 
