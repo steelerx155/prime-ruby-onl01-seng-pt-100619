@@ -1,6 +1,6 @@
 def prime?(x)
- if prime? = true  
- else false
+ Prime.each(100) do |prime| 
+
  end
 end 
 
