@@ -1,4 +1,4 @@
-def prime?(1)
+def prime?(integer)
  if prime = true  
  else false
  end
