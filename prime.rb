@@ -1,4 +1,5 @@
-def prime?(number)
+def prime?(1)
+  
   
 
 
