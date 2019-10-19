@@ -1,4 +1,4 @@
-def prime?(2)
+def prime?(x)
  if prime? = true  
  else false
  end
