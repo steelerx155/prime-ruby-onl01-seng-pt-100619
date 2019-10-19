@@ -1,5 +1,5 @@
-def prime?(integer)
- if prime = true  
+def prime?(2)
+ if prime? = true  
  else false
  end
 end 
